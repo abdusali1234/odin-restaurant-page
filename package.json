@@ -1,0 +1,19 @@
+{
+  "name": "odin-restaurant-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Abdus Ali",
+  "license": "ISC",
+  "description": "A restaurant page project, as part of The Odin Project curriculum",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
