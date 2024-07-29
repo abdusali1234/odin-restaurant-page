@@ -31,8 +31,8 @@ export default function loadHome () {
     hoursTable.innerHTML = `
             <tr>
                 <th>Day</th>
-                <th>Opening Time</th>
-                <th>Closing Time</th>
+                <th>Opens at</th>
+                <th>Closes at</th>
             </tr>
             <tr>
                 <td>Monday</td>
